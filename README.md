@@ -3,7 +3,7 @@
 
 <br>
 
-Checkout how the Real Time Chat App works - [view demo](https://www.youtube.com/watch?v=JWasK72rXsY)
+
 
 
 
